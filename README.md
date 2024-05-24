@@ -1,4 +1,4 @@
-# 정상 실행 불가능!!!
+# 정상 실행 불가능!!! 확인 필요!!!
 # SOCIAL NETWORK
 ## Team  Members:
 ```bash
