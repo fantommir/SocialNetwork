@@ -1,3 +1,4 @@
+# 정상 실행 불가능!!!
 # SOCIAL NETWORK
 ## Team  Members:
 ```bash
